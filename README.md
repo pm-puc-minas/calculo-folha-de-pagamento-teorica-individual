@@ -1,0 +1,1 @@
+# calculo-folha-de-pagamento-teorica-individual
